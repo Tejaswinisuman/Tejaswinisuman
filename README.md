@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Tejaswini Suman! 👋
 
 ### Aspiring AI/ML Engineer | BTech Student | Python Developer
