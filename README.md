@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**Tejaswinisuman/Tejaswinisuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tejaswini Suman! 👋
 
-Here are some ideas to get you started:
+### Aspiring AI/ML Engineer | BTech Student | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate technology enthusiast currently pursuing BTech in Artificial Intelligence & Machine Learning. I enjoy building practical projects, exploring intelligent systems, and learning how AI can solve real-world problems.
+
+- 🔭 Currently working on AI/ML projects
+- 🌱 Learning Machine Learning, Deep Learning and Generative AI
+- 🤖 Interested in Artificial Intelligence, NLP and Data Science
+- 💻 Building projects using Python and modern AI tools
+- 🎯 Goal: Become a skilled AI/ML Engineer
+
+### 🛠️ Tech Stack
+
+**Languages & Programming**
+- Python
+
+**AI & Machine Learning**
+- TensorFlow
+- Keras
+- NumPy
+- Sentence Transformers
+
+**Tools & Frameworks**
+- Streamlit
+- LangChain
+- ChromaDB
+- Jupyter Notebook
+- Git & GitHub
+
+### 🚀 Featured Projects
+
+**1. AI Study Assistant**
+An AI-powered study application that helps engineering students understand PDF materials, generate quizzes and create flashcards using Retrieval-Augmented Generation (RAG).
+
+[View Project](https://github.com/Tejaswinisuman/AI-Study-Assistant)
+
+**2. Handwritten Digit Recognition**
+A deep learning project that recognizes handwritten digits using Artificial Neural Networks (ANN) and the MNIST dataset.
+
+[View Project](https://github.com/Tejaswinisuman/digitRecognitionproject)
+
+---
+⭐ Thanks for visiting my profile!
